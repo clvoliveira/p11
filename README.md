@@ -7,4 +7,4 @@ Abrir o Snap4Arduino e no menu de arquivos escolher a opção importar.<br />
 Os blocos estarão disponíveis no grupo Arduino.<br /><br />
 
 Montagem:<br />
-<img width="50" src="https://github.com/clvoliveira/p11/blob/master/ligacao-p11-arduino.jpg">
+<img width="50%" src="https://github.com/clvoliveira/p11/blob/master/ligacao-p11-arduino.jpg">
